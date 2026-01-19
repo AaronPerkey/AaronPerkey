@@ -1,15 +1,7 @@
 ## "Hello there", my name is Aaron 👋
 
-<br>
-
-<p style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/aaron-perkey-8920a61b4" style="display:inline-block; text-decoration: none; margin-right: 16px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" style="display:block;" />
-  </a>
-  <a href="https://youtube.com/playlist?list=PLZ4_2Q8HO4z0IAOQqQCp2aSnSZM4Q_5vi&si=3MvaUx4wtDscOuce" style="display:inline-block; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="48" height="48" style="display:block;" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-perkey-8920a61b4)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLZ4_2Q8HO4z0IAOQqQCp2aSnSZM4Q_5vi)
 
 # About Me:
 I’m a computer science student at the University of Nebraska–Lincoln, focusing on software and game development. I specialize in C#, Python, and SQL, and I build full-stack applications with Angular and Electron. I also apply the same problem-solving mindset to designing games in Unity. The repositories below showcase my past work and current projects, reflecting both my technical growth and interests.
