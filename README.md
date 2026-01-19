@@ -1,5 +1,7 @@
 ## "Hello there", my name is Aaron 👋
 
+<br>
+
 <p style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/aaron-perkey-8920a61b4" style="display:inline-block; text-decoration: none; margin-right: 16px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" style="display:block;" />
