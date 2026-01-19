@@ -1,9 +1,9 @@
 ## "Hello there", my name is Aaron 👋
-<a href="https://www.linkedin.com/in/aaron-perkey-8920a61b4">
+<a href="https://www.linkedin.com/in/aaron-perkey-8920a61b4" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" style="display:block;" />
 </a>
 &nbsp;&nbsp;
-<a href="https://youtube.com/playlist?list=PLZ4_2Q8HO4z0IAOQqQCp2aSnSZM4Q_5vi&si=3MvaUx4wtDscOuce">
+<a href="https://youtube.com/playlist?list=PLZ4_2Q8HO4z0IAOQqQCp2aSnSZM4Q_5vi&si=3MvaUx4wtDscOuce" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40" style="display:block;" />
 </a>
 
