@@ -3,7 +3,7 @@
 **About Me:**
 I’m a computer science gruaduate of the University of Nebraska–Lincoln, focusing on software and game development. I specialize in C#, Python, and SQL, and I have built full-stack applications with React, Angular, and Electron. I also apply the same problem-solving mindset to designing games in Unity. The repositories below showcase my past work and current projects, reflecting both my technical growth and interests.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-perkey-8920a61b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AaronPerkey1)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZ4_2Q8HO4z0IAOQqQCp2aSnSZM4Q_5vi)
 
 ---
