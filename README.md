@@ -1,4 +1,4 @@
-### Aaron Perkey 👋
+### Hello There, I'm Aaron Perkey 👋
 
 ## About Me:
 I’m a computer science gruaduate of the University of Nebraska–Lincoln, focusing on software and game development. I specialize in C#, Python, and SQL, and I have built full-stack applications with React, Angular, and Electron. I also apply the same problem-solving mindset to designing games in Unity. The repositories below showcase my past work and current projects, reflecting both my technical growth and interests.
